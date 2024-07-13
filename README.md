@@ -1,6 +1,9 @@
 Before setting up install the following:
+
 Python 3.x: Download Python
+
 MySQL Server: Download MySQL
+
 MySQL Connector for Python: Install via pip
 
 Setup:
